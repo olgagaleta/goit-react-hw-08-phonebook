@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[675],{9675:function(o,t,e){e.r(t);var r=e(4554),n=e(890),a=e(184);t.default=function(){return(0,a.jsx)(r.Z,{sx:{width:"100%",bgcolor:"background.main",color:"text.primary",p:3},children:(0,a.jsx)(n.Z,{variant:"h5",component:"h2",color:"inherit",sx:{flexGrow:1},children:'Welcome to the "My Contacts" application. We offer you an application that stores your contacts on a server storage.'})})}}}]);
+//# sourceMappingURL=675.bd53d940.chunk.js.map
